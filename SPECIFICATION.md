@@ -45,11 +45,3 @@ This screen is used for managing users in the system. The main functionalities a
 *   Modern and clean design.
 *   Consistent colors and typography.
 *   User-experience-focused layout.
-
-## 6. Additional Notes (In the Context of an Internship Application)
-
-This specification demonstrates my product design principles and user-centered thinking.
-
-## Screenshot
-
-(Insert the screenshot here. For example: `![Screenshot](screenshot.png)`)
